@@ -1,11 +1,11 @@
 @font-face {
     font-family: my-cool-font;
-    src: url(/images/28-days-later/28\ Days\ Later.ttf);
+    src: url(images/28-days-later/28\ Days\ Later.ttf);
 }
 
 @font-face {
     font-family: form-font;
-    src: url(/images/titillium-web/TitilliumWeb-SemiBold.ttf);
+    src: url(images/titillium-web/TitilliumWeb-SemiBold.ttf);
 }
 
 body {
@@ -22,7 +22,7 @@ body {
 
 div.image {
     height: 100%;
-    background-image: url(/images/niels-baars-8p7llW5-hT8-unsplash.jpg);
+    background-image: url(images/niels-baars-8p7llW5-hT8-unsplash.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     width: min(38vw, 100%);
